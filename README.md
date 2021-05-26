@@ -9,7 +9,7 @@
   -  Power BI, 
   -  SPfx
   -  Scrum, 
-  -  #Build [MS Buld](https://mybuild.microsoft.com/)
+  -  [MS Buld](https://mybuild.microsoft.com/)
   -  ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: @oxygenson
