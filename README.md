@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning 
   -  Power Automate, 
   -  Power BI, 
-  -  SPfx
+  -  [SPfx](https://docs.microsoft.com/en-us/sharepoint/dev/spfx/web-parts/get-started/build-a-hello-world-web-part)
   -  Scrum, 
   -  [MS Buld](https://mybuild.microsoft.com/)
   -  ...
